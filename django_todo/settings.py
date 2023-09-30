@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-ef-sh0pah7o!^_j$sdcgsv@65#t7rg_6+7sa)vvfgx)i(j6)x8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['godinho-django-todo-app.git.herokuapp.com']
+ALLOWED_HOSTS = ['godinho-django-todo-app-d75abde333c9.herokuapp.com']
 
 
 # Application definition
